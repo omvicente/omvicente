@@ -7,7 +7,6 @@ Hello! I currently live in a small town in Brazil. I'm making a career transitio
 - **Working:** Web site development
 - **Learning :** Algorithms and Logic :fire:
 - **Hobbies :** Books :books: | Music :headphones: | Games :joystick: 
-- **Ask me about :** Anything!, I will try to help :v:
 
 
 ## 🧠 Technologies that I am studying and using in my daily life 
