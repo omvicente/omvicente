@@ -24,4 +24,4 @@ Hello! I currently live in a small town in Brazil. I'm making a career transitio
 
 ## 📚 My latest studies and contributions 
 
-- [Introduction to Logic and Algorithm]()
+- [Introduction to Logic and Algorithm](https://github.com/omvicente/Introduction-Logic)
